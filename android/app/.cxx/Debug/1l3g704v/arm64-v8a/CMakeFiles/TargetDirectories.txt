@@ -1,0 +1,2 @@
+C:/Users/alaam/hotel-search/android/app/.cxx/Debug/1l3g704v/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/alaam/hotel-search/android/app/.cxx/Debug/1l3g704v/arm64-v8a/CMakeFiles/rebuild_cache.dir
